@@ -1,0 +1,53 @@
+/* Write your CSS here */
+
+.nav-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-bottom: 0px;
+}
+hr {
+  margin: 0px;
+  padding: 0px;
+}
+
+.dark-navbar {
+  background-color: #333333;
+}
+.website-logo {
+  width: 30px;
+}
+
+.theme-button {
+  border: 0px;
+  background-color: transparent;
+}
+.theme-logo {
+  width: 30px;
+}
+
+.options-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+}
+
+.option-item {
+  color: #1e293b;
+  font-weight: bold;
+  margin-left: 16px;
+}
+
+.dark-option {
+  color: #ffffff;
+}
+
+.link-item {
+  text-decoration: none;
+}

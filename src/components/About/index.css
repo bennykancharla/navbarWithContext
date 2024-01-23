@@ -1,0 +1,27 @@
+/* Write your CSS here */
+
+.about-container {
+  margin-top: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.dark-about {
+  background-color: #000000;
+}
+
+.about-image {
+  width: 20%;
+}
+
+.about-heading {
+  font-size: 55px;
+  color: #1e293b;
+}
+
+.dark-about-heading {
+  color: #ffffff;
+}

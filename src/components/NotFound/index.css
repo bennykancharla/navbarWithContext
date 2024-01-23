@@ -1,0 +1,36 @@
+/* Write your CSS here */
+
+.notfound-container {
+  margin-top: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.dark-notfound {
+  background-color: #000000;
+}
+
+.notfound-image {
+  width: 20%;
+}
+
+.notfound-heading {
+  font-size: 40px;
+  color: #1e293b;
+}
+
+.notfound-para {
+  font-size: 25px;
+  color: #1e293b;
+}
+
+.dark-notfound-heading {
+  color: #ffffff;
+}
+
+.dark-notfound-para {
+  color: #ffffff;
+}
